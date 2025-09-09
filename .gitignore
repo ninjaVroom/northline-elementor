@@ -1,0 +1,16 @@
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+*.log
+.env*
+!.env.example
+.local-dev.env
+wp-config.php
+*.sql
+*.sqlite
+*.db
+*.blend
+*.blend1
+.DS_Store
+Thumbs.db
