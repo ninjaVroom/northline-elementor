@@ -51,8 +51,8 @@ The accessibility script needs Beautiful Soup. The form scripts create test reco
 
 `tools/blender/gearbox.py` rebuilds the animation using Blender; its command-line options are documented at the top of the file. The saved Blender scene and local development credentials are excluded from this repository.
 
-## Prototype
+## Figma design
 
-Figma prototype link pending.
+[View the Figma design](https://www.figma.com/design/NDVgk2IaX0d6WQhdut8Zv1/NORTHLINE---Elementor).
 
 Live portfolio: https://northline.samuelrolandvroom.com
